@@ -51,14 +51,6 @@ I'm passionate about uncovering insights from data and translating them into act
 
 ---
 
-## 📂 Projects
-
-> A few highlights from my portfolio:
-- SQL Case Study: Walmart Sales Analytics
-- Power BI Dashboard: Bank Loan Analysis
-- Python Project: Customer Churn Prediction
-- Excel Dashboard: Blink Daily Sales Tracker
-- Machine Learning: Laptop Price Prediction
 
 Explore my repositories to see how I apply these skills to real-world scenarios!
 
